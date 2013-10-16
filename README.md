@@ -1,4 +1,4 @@
 groovy-project-template
 =======================
 
-Template for faster Groovy project creation.
+Gradle project template for faster Groovy project creation.
